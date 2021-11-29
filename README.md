@@ -1,1 +1,1 @@
-# LGMVIP_Task3_Student-Result-Management-System
+# Task3-LetsGrowMore-Internship
